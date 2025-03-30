@@ -55,6 +55,4 @@ see `contributing.md` for ways to get started
 
 ## :handshake: Contact
 
-Furkan Khan - - khanfurkan575@gmail.com
-
-Project Link: [https://github.com/FurkanKhann](https://github.com/FurkanKhann)
+Project Link: [https://github.com/FurkanKhann](https://github.com/Suraj9260/0-9-Number-Prediction-from-text-CNN)
